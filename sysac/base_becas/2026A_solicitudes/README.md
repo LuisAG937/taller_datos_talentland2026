@@ -350,16 +350,16 @@ Este cruce es donde nace el análisis más rico del taller: ¿lo que el estudian
 ## 📁 Archivos del Módulo
 
 ```
-cuestionario/
-├── CUESTIONARIO_BECAS.csv     # 7,777 registros × 38 columnas (2.8 MB)
-└── CATALOGO_RESPUESTAS.csv    # 38 preguntas documentadas (4.6 KB)
 
 base_becas/
 ├── CATBEC.csv                 # 4 tipos de beca
 ├── REGBEC.csv                 # 44 reglas de asignación
 ├── SOLBEC.csv                 # 7,777 solicitudes
 ├── EVABEC.csv                 # 5,010 evaluaciones
-└── DISBEC.csv                 # 10,369 distancias calculadas
+├── DISBEC.csv                 # 10,369 distancias calculadas
+└── 2026A_solicitudes/
+|   ├── CUESTIONARIO_BECAS.csv     # 7,777 registros × 38 columnas (2.8 MB)
+|   └── CATALOGO_RESPUESTAS.csv    # 38 preguntas documentadas (4.6 KB)
 ```
 
 ---
