@@ -142,13 +142,10 @@ sysac/
 │   │   │
 │   │   └── 📂 2026A_solicitudes/
 │   │      ├── CUESTIONARIO_BECAS.csv
-│   │      └── CATALOGO_RESPUESTAS.csv
+│   │      ├── CATALOGO_RESPUESTAS.csv
+│   │      └── README_SOLICITUDES.md
 │
-├── 📂 notebooks/
-│   └── (pipeline del taller)
-│
-├── README.md
-└── README_SOLICITUDES.md
+└── README.md
 ```
 
 ---
