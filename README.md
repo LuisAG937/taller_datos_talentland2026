@@ -2,6 +2,8 @@
 
 **Del Caos al Insight: ¿qué decisión tomarías?**
 
+Taller elaborado para **Talent Land 2026**, realizado por ***Luis Andrade*** y ***Techy Events***.
+
 > Cada año, miles de estudiantes mexicanos abandonan sus estudios por razones que los datos ya conocían meses antes. SYSAC es el dataset sintético diseñado para que lo descubras tú mismo.
 
 ---
