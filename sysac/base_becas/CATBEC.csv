@@ -1,0 +1,5 @@
+﻿CVE_BECA,NOMBRE_BECA,TIPO_BECA,DESCRIPCION,PORCENTAJE_MIN,PORCENTAJE_MAX,REQUIERE_PROMEDIO,PROMEDIO_MINIMO,REQUIERE_SIN_REPROBADAS,MAX_OTORGAMIENTOS,VIGENTE,FECHA_ACT
+BEC001,Beca de Inscripción,INSCRIPCION,Apoyo promocional para nuevos estudiantes en su primera inscripción,50.0,100.0,False,0.0,False,1,True,2025-01-15
+BEC002,Beca de Reinscripción,REINSCRIPCION,Apoyo para estudiantes en proceso de reinscripción como incentivo de permanencia,20.0,50.0,False,0.0,False,1,True,2025-01-15
+BEC003,Beca de Colegiatura por Mérito,COLEGIATURA,Apoyo parcial sobre colegiatura mensual para estudiantes con promedio destacable,10.0,50.0,True,8.0,True,0,True,2025-01-15
+BEC004,Beca de Transporte,TRANSPORTE,Apoyo para gastos de traslado basado en distancia del domicilio a la institución,25.0,100.0,False,0.0,False,0,True,2025-01-15
